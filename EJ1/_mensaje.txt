@@ -1,0 +1,1 @@
+ Hola buen día Ale, te reenvío el trabajo, creo que está todo ahora. Lo único te aclaro que en la función de calcular el área del triángulo usé la función round para redondear a dos decimales el resultado, porque si no después cuando agregaba las pruebas con el assert con los decimales era un desastre. Saludos.
